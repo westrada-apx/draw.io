@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T23:48:45.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HECZqqOF0HMO9aerjEtc" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T23:56:32.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zWvpiCxAuInD3IHBbLhB" version="24.0.0" type="github">
   <diagram name="Page-1" id="moje5MP1D1rMO4aEr9rX">
-    <mxGraphModel dx="4435" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3240" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,6 +133,21 @@
         </mxCell>
         <mxCell id="fc4hQp4U5ANWg9E9tWy_-201" value="destination dataframe" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="780" y="570" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4hQp4U5ANWg9E9tWy_-211" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="10" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4hQp4U5ANWg9E9tWy_-206" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;aspect=fixed;" vertex="1" parent="fc4hQp4U5ANWg9E9tWy_-211">
+          <mxGeometry width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4hQp4U5ANWg9E9tWy_-207" value="Table" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="fc4hQp4U5ANWg9E9tWy_-211">
+          <mxGeometry x="50" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4hQp4U5ANWg9E9tWy_-209" value="View" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="fc4hQp4U5ANWg9E9tWy_-211">
+          <mxGeometry x="50" y="138" width="80" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="fc4hQp4U5ANWg9E9tWy_-210" value="dataframe" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="fc4hQp4U5ANWg9E9tWy_-211">
+          <mxGeometry x="50" y="201" width="80" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
